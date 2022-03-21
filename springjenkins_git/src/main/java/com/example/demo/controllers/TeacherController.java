@@ -24,6 +24,7 @@ public class TeacherController {
 		if(dept.equals("ece")) {
 			list = Arrays.asList("shankar","shyaam","sion");
 		}
+		System.out.println("HIEEE");
 		return list.toString();
 	
 
